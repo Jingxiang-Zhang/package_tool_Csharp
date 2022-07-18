@@ -1,4 +1,4 @@
-This is a package tool, used to pack a group of file into one single file, and you can set password while pack the file. It likes a compressed file, but much more simple.
+This is a package tool, used to pack a group of file into one single file, and you can set password while pack the file. It likes a compressed file, but much more simple. I programmed this tool in August 19, 2020, when I designed URP. This tool was programmed by C#.
 
 The main window of this tool:
 

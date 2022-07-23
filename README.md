@@ -18,5 +18,5 @@ Set a password and pack it up:
   <img src="https://github.com/Jingxiang-Zhang/package_tool_Csharp/blob/main/img/pack.png">
 </div>
 
-You can unpack the data by the bottom left button.
+You can unpack the data by the bottom left button..
 
